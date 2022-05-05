@@ -1,0 +1,658 @@
+flight Name,Depart Time,Arrival Time,Depart From,Arrived at,Total Time,Flight Type,Flight price,Flight Date
+SpiceJet,21:10,23:20,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 15
+SpiceJet,21:45,23:55,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 15
+SpiceJet,10:15,12:30,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 15
+SpiceJet,19:05,21:30,Mumbai,Delhi,02h 25m,non-stop,5943,Nov 15
+Indigo,19:35,21:25,Mumbai,Delhi,01h 50m,non-stop,5943,Nov 15
+Indigo,07:45,09:50,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 15
+Indigo,17:15,19:20,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 15
+Indigo,18:30,20:35,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 15
+Indigo,20:30,22:35,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 15
+Indigo,22:20,00:25,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 15
+Indigo,09:20,11:30,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 15
+Indigo,15:50,18:00,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 15
+AirAsia,22:55,01:00,Mumbai,Delhi,02h 05m,non-stop,5944,Nov 15
+GO FIRST,06:00,08:10,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 15
+GO FIRST,18:00,20:10,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 15
+GO FIRST,20:15,22:25,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 15
+GO FIRST,22:40,00:50,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 15
+GO FIRST,09:55,12:10,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 15
+GO FIRST,12:15,14:30,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 15
+GO FIRST,13:30,15:45,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 15
+GO FIRST,21:15,23:30,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 15
+GO FIRST,23:45,02:00,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 15
+GO FIRST,08:00,10:10,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 15
+Indigo,08:30,10:25,Mumbai,Delhi,01h 55m,non-stop,5943,Nov 15
+Indigo,05:00,07:05,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 15
+Indigo,06:00,08:10,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 15
+Indigo,07:05,09:20,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 15
+SpiceJet,05:55,10:40,Mumbai,Delhi,04h 45m,1-stop,5943,Nov 15
+SpiceJet,19:50,10:40,Mumbai,Delhi,14h 50m,1-stop,5943,Nov 15
+Vistara,06:00,08:05,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 15
+Vistara,06:30,08:35,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 15
+Vistara,20:55,23:00,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 15
+Vistara,17:30,19:40,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 15
+Vistara,18:30,20:40,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 15
+Vistara,19:45,21:55,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 15
+Vistara,22:45,00:55,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 15
+Vistara,08:45,11:00,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 15
+Vistara,10:25,12:40,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 15
+Vistara,14:40,16:55,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 15
+Vistara,21:55,00:10,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 15
+Vistara,15:45,18:05,Mumbai,Delhi,02h 20m,non-stop,5943,Nov 15
+AirAsia,21:20,02:50,Mumbai,Delhi,05h 30m,1-stop,5941,Nov 15
+AirAsia,21:20,03:35,Mumbai,Delhi,06h 15m,1-stop,5941,Nov 15
+AirAsia,17:50,01:00,Mumbai,Delhi,07h 10m,1-stop,5941,Nov 15
+GO FIRST,22:50,10:30,Mumbai,Delhi,11h 40m,1-stop,5942,Nov 15
+SpiceJet,14:30,18:10,Mumbai,Delhi,03h 40m,1-stop,5943,Nov 15
+Vistara,11:55,14:05,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 15
+Air India,07:00,08:55,Mumbai,Delhi,01h 55m,non-stop,5943,Nov 15
+Air India,21:30,23:30,Mumbai,Delhi,02h 00m,non-stop,5943,Nov 15
+Air India,08:00,10:15,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 15
+Air India,10:00,12:15,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 15
+Air India,19:00,21:15,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 15
+Air India,18:00,20:30,Mumbai,Delhi,02h 30m,non-stop,5943,Nov 15
+Indigo,03:05,05:10,Mumbai,Delhi,02h 05m,non-stop,6153,Nov 15
+Indigo,10:05,12:15,Mumbai,Delhi,02h 10m,non-stop,6153,Nov 15
+Indigo,13:40,15:50,Mumbai,Delhi,02h 10m,non-stop,6153,Nov 15
+Indigo,11:45,14:00,Mumbai,Delhi,02h 15m,non-stop,6153,Nov 15
+AirAsia,08:20,14:00,Mumbai,Delhi,05h 40m,1-stop,5941,Nov 15
+AirAsia,02:35,08:55,Mumbai,Delhi,06h 20m,1-stop,5941,Nov 15
+AirAsia,08:20,16:15,Mumbai,Delhi,07h 55m,1-stop,5941,Nov 15
+AirAsia,23:35,10:55,Mumbai,Delhi,11h 20m,1-stop,5941,Nov 15
+AirAsia,02:35,14:05,Mumbai,Delhi,11h 30m,1-stop,5941,Nov 15
+AirAsia,21:20,08:55,Mumbai,Delhi,11h 35m,1-stop,5941,Nov 15
+AirAsia,13:05,01:00,Mumbai,Delhi,11h 55m,1-stop,5941,Nov 15
+AirAsia,08:20,20:20,Mumbai,Delhi,12h 00m,1-stop,5941,Nov 15
+AirAsia,04:45,18:10,Mumbai,Delhi,13h 25m,1-stop,5941,Nov 15
+AirAsia,13:05,02:50,Mumbai,Delhi,13h 45m,1-stop,5941,Nov 15
+AirAsia,13:05,03:35,Mumbai,Delhi,14h 30m,1-stop,5941,Nov 15
+GO FIRST,11:20,18:00,Mumbai,Delhi,06h 40m,1-stop,5942,Nov 15
+GO FIRST,10:40,17:35,Mumbai,Delhi,06h 55m,2+-stop,5942,Nov 15
+GO FIRST,12:00,19:15,Mumbai,Delhi,07h 15m,1-stop,5942,Nov 15
+GO FIRST,10:55,18:25,Mumbai,Delhi,07h 30m,1-stop,5942,Nov 15
+GO FIRST,09:25,17:45,Mumbai,Delhi,08h 20m,1-stop,5942,Nov 15
+GO FIRST,09:00,17:45,Mumbai,Delhi,08h 45m,2+-stop,5942,Nov 15
+GO FIRST,14:35,23:50,Mumbai,Delhi,09h 15m,1-stop,5942,Nov 15
+GO FIRST,10:35,19:55,Mumbai,Delhi,09h 20m,1-stop,5942,Nov 15
+GO FIRST,10:40,20:00,Mumbai,Delhi,09h 20m,2+-stop,5942,Nov 15
+GO FIRST,10:40,20:20,Mumbai,Delhi,09h 40m,2+-stop,5942,Nov 15
+GO FIRST,09:25,19:15,Mumbai,Delhi,09h 50m,1-stop,5942,Nov 15
+GO FIRST,07:30,17:45,Mumbai,Delhi,10h 15m,2+-stop,5942,Nov 15
+GO FIRST,10:40,21:40,Mumbai,Delhi,11h 00m,2+-stop,5942,Nov 15
+GO FIRST,09:00,20:30,Mumbai,Delhi,11h 30m,2+-stop,5942,Nov 15
+GO FIRST,12:00,23:30,Mumbai,Delhi,11h 30m,1-stop,5942,Nov 15
+GO FIRST,21:00,08:30,Mumbai,Delhi,11h 30m,1-stop,5942,Nov 15
+Air India,15:25,19:20,Mumbai,Delhi,03h 55m,1-stop,5943,Nov 15
+Air India,07:05,11:10,Mumbai,Delhi,04h 05m,1-stop,5943,Nov 15
+SpiceJet,13:50,14:20,Mumbai,Delhi,24h 30m,1-stop,5943,Nov 15
+SpiceJet,07:20,09:35,Mumbai,Delhi,02h 15m,non-stop,6258,Nov 15
+Vistara,07:30,09:40,Mumbai,Delhi,02h 10m,non-stop,6363,Nov 15
+AirAsia,04:45,19:20,Mumbai,Delhi,14h 35m,1-stop,6364,Nov 15
+AirAsia,07:20,09:30,Mumbai,Delhi,02h 10m,non-stop,6547,Nov 15
+Indigo,00:10,08:35,Mumbai,Delhi,08h 25m,1-stop,8043,Nov 15
+Indigo,16:45,22:35,Mumbai,Delhi,05h 50m,1-stop,8043,Nov 15
+Indigo,08:55,15:20,Mumbai,Delhi,06h 25m,1-stop,8043,Nov 15
+Indigo,17:05,22:50,Mumbai,Delhi,05h 45m,1-stop,7991,Nov 15
+Indigo,20:15,00:20,Mumbai,Delhi,04h 05m,1-stop,8883,Nov 15
+Indigo,19:15,00:20,Mumbai,Delhi,05h 05m,1-stop,8883,Nov 15
+Indigo,00:10,10:30,Mumbai,Delhi,10h 20m,1-stop,8883,Nov 15
+AirAsia,04:45,10:55,Mumbai,Delhi,06h 10m,1-stop,8044,Nov 15
+Indigo,13:45,22:00,Mumbai,Delhi,08h 15m,1-stop,8883,Nov 15
+Indigo,13:45,00:20,Mumbai,Delhi,10h 35m,1-stop,8883,Nov 15
+Indigo,06:05,10:25,Mumbai,Delhi,04h 20m,1-stop,8251,Nov 15
+GO FIRST,19:15,23:30,Mumbai,Delhi,04h 15m,1-stop,8857,Nov 15
+GO FIRST,22:40,09:50,Mumbai,Delhi,11h 10m,1-stop,8857,Nov 15
+Indigo,06:35,17:15,Mumbai,Delhi,10h 40m,1-stop,8988,Nov 15
+Indigo,06:45,16:10,Mumbai,Delhi,09h 25m,1-stop,8358,Nov 15
+Air India,19:20,09:25,Mumbai,Delhi,14h 05m,1-stop,8296,Nov 15
+Indigo,15:50,21:55,Mumbai,Delhi,06h 05m,1-stop,8461,Nov 15
+Indigo,00:10,07:55,Mumbai,Delhi,07h 45m,1-stop,8936,Nov 15
+Indigo,00:10,09:00,Mumbai,Delhi,08h 50m,1-stop,8936,Nov 15
+Indigo,17:30,22:00,Mumbai,Delhi,04h 30m,1-stop,9198,Nov 15
+Indigo,17:30,00:20,Mumbai,Delhi,06h 50m,1-stop,9198,Nov 15
+Vistara,12:15,16:45,Mumbai,Delhi,04h 30m,1-stop,8621,Nov 15
+Indigo,15:05,21:20,Mumbai,Delhi,06h 15m,1-stop,8831,Nov 15
+Indigo,15:05,00:50,Mumbai,Delhi,09h 45m,1-stop,8831,Nov 15
+Vistara,12:15,14:25,Mumbai,Delhi,26h 10m,1-stop,8778,Nov 15
+Indigo,06:35,15:40,Mumbai,Delhi,09h 05m,1-stop,9041,Nov 15
+Vistara,06:00,19:50,Mumbai,Delhi,13h 50m,1-stop,8988,Nov 15
+Air India,19:20,16:00,Mumbai,Delhi,20h 40m,1-stop,9556,Nov 15
+Vistara,06:00,16:30,Mumbai,Delhi,10h 30m,1-stop,9723,Nov 15
+Vistara,10:45,22:50,Mumbai,Delhi,12h 05m,1-stop,9828,Nov 15
+Vistara,19:20,09:00,Mumbai,Delhi,13h 40m,1-stop,9828,Nov 15
+Vistara,06:20,22:50,Mumbai,Delhi,16h 30m,1-stop,9828,Nov 15
+Vistara,06:20,12:30,Mumbai,Delhi,06h 10m,1-stop,9828,Nov 15
+Vistara,10:45,19:55,Mumbai,Delhi,09h 10m,1-stop,9828,Nov 15
+Vistara,06:20,19:55,Mumbai,Delhi,13h 35m,1-stop,9828,Nov 15
+Vistara,19:20,12:30,Mumbai,Delhi,17h 10m,1-stop,9828,Nov 15
+Vistara,10:45,09:00,Mumbai,Delhi,22h 15m,1-stop,9828,Nov 15
+Vistara,19:20,19:55,Mumbai,Delhi,24h 35m,1-stop,9828,Nov 15
+Vistara,10:45,12:30,Mumbai,Delhi,25h 45m,1-stop,9828,Nov 15
+Vistara,06:20,09:00,Mumbai,Delhi,26h 40m,1-stop,9828,Nov 15
+Vistara,19:20,22:50,Mumbai,Delhi,27h 30m,1-stop,9933,Nov 15
+Air India,05:00,16:45,Mumbai,Delhi,11h 45m,1-stop,9976,Nov 15
+Air India,09:50,20:25,Mumbai,Delhi,10h 35m,1-stop,10418,Nov 15
+Vistara,16:05,16:30,Mumbai,Delhi,24h 25m,1-stop,10458,Nov 15
+GO FIRST,16:20,02:10,Mumbai,Delhi,09h 50m,1-stop,11193,Nov 15
+GO FIRST,15:20,02:10,Mumbai,Delhi,10h 50m,1-stop,11193,Nov 15
+Air India,11:10,21:35,Mumbai,Delhi,10h 25m,1-stop,10668,Nov 15
+Air India,11:10,04:40,Mumbai,Delhi,17h 30m,1-stop,10668,Nov 15
+Air India,11:10,08:30,Mumbai,Delhi,21h 20m,1-stop,10668,Nov 15
+GO FIRST,16:10,21:45,Mumbai,Delhi,05h 35m,1-stop,11400,Nov 15
+GO FIRST,16:10,21:50,Mumbai,Delhi,05h 40m,1-stop,11400,Nov 15
+Air India,19:00,11:15,Mumbai,Delhi,16h 15m,1-stop,10773,Nov 15
+Vistara,13:20,16:50,Mumbai,Delhi,27h 30m,1-stop,10826,Nov 15
+Indigo,09:25,13:40,Mumbai,Delhi,04h 15m,1-stop,10878,Nov 15
+Indigo,07:45,13:40,Mumbai,Delhi,05h 55m,1-stop,10878,Nov 15
+Air India,09:50,11:15,Mumbai,Delhi,25h 25m,1-stop,11048,Nov 15
+Air India,08:05,20:40,Mumbai,Delhi,12h 35m,1-stop,11088,Nov 15
+Air India,08:05,21:35,Mumbai,Delhi,13h 30m,1-stop,11088,Nov 15
+Indigo,11:00,15:55,Mumbai,Delhi,04h 55m,1-stop,11193,Nov 15
+Air India,21:00,03:40,Mumbai,Delhi,06h 40m,1-stop,11298,Nov 15
+Air India,19:05,03:40,Mumbai,Delhi,08h 35m,1-stop,11298,Nov 15
+Air India,05:30,16:35,Mumbai,Delhi,11h 05m,1-stop,11298,Nov 15
+Air India,13:25,03:40,Mumbai,Delhi,14h 15m,1-stop,11298,Nov 15
+Air India,20:15,13:50,Mumbai,Delhi,17h 35m,1-stop,11298,Nov 15
+Air India,21:00,16:35,Mumbai,Delhi,19h 35m,1-stop,11298,Nov 15
+Air India,05:30,03:40,Mumbai,Delhi,22h 10m,1-stop,11298,Nov 15
+GO FIRST,11:20,22:00,Mumbai,Delhi,10h 40m,1-stop,12033,Nov 15
+Air India,08:05,10:15,Mumbai,Delhi,26h 10m,1-stop,11403,Nov 15
+Vistara,07:00,12:40,Mumbai,Delhi,05h 40m,1-stop,12138,Nov 15
+Air India,20:15,08:55,Mumbai,Delhi,12h 40m,1-stop,11718,Nov 15
+Vistara,06:00,12:40,Mumbai,Delhi,06h 40m,1-stop,12138,Nov 15
+Air India,12:00,23:45,Mumbai,Delhi,11h 45m,1-stop,11928,Nov 15
+Vistara,17:30,23:45,Mumbai,Delhi,06h 15m,1-stop,12138,Nov 15
+SpiceJet,09:15,18:30,Mumbai,Delhi,09h 15m,1-stop,12111,Nov 15
+Vistara,07:00,14:10,Mumbai,Delhi,07h 10m,1-stop,12138,Nov 15
+Air India,16:45,23:55,Mumbai,Delhi,07h 10m,1-stop,12138,Nov 15
+Vistara,06:00,14:10,Mumbai,Delhi,08h 10m,1-stop,12138,Nov 15
+Vistara,07:00,20:20,Mumbai,Delhi,13h 20m,1-stop,12138,Nov 15
+Vistara,06:00,20:20,Mumbai,Delhi,14h 20m,1-stop,12138,Nov 15
+Vistara,07:00,22:25,Mumbai,Delhi,15h 25m,1-stop,12138,Nov 15
+Vistara,09:05,14:10,Mumbai,Delhi,05h 05m,1-stop,12243,Nov 15
+Vistara,16:00,22:25,Mumbai,Delhi,06h 25m,1-stop,12243,Nov 15
+Vistara,16:00,23:45,Mumbai,Delhi,07h 45m,1-stop,12243,Nov 15
+Vistara,09:05,20:20,Mumbai,Delhi,11h 15m,1-stop,12243,Nov 15
+Vistara,21:00,09:40,Mumbai,Delhi,12h 40m,1-stop,12243,Nov 15
+Vistara,09:05,22:25,Mumbai,Delhi,13h 20m,1-stop,12243,Nov 15
+Vistara,21:00,10:40,Mumbai,Delhi,13h 40m,1-stop,12243,Nov 15
+Vistara,19:10,09:40,Mumbai,Delhi,14h 30m,1-stop,12243,Nov 15
+Vistara,09:05,23:45,Mumbai,Delhi,14h 40m,1-stop,12243,Nov 15
+Vistara,19:10,10:40,Mumbai,Delhi,15h 30m,1-stop,12243,Nov 15
+Vistara,11:30,16:45,Mumbai,Delhi,05h 15m,1-stop,12444,Nov 15
+GO FIRST,11:20,19:00,Mumbai,Delhi,07h 40m,1-stop,12611,Nov 15
+Air India,05:35,10:55,Mumbai,Delhi,05h 20m,1-stop,12663,Nov 15
+Air India,09:30,20:35,Mumbai,Delhi,11h 05m,1-stop,12768,Nov 15
+Air India,09:30,23:55,Mumbai,Delhi,14h 25m,1-stop,12768,Nov 15
+Vistara,17:50,23:55,Mumbai,Delhi,06h 05m,1-stop,12978,Nov 15
+Vistara,07:05,13:30,Mumbai,Delhi,06h 25m,1-stop,12978,Nov 15
+Vistara,14:00,22:45,Mumbai,Delhi,08h 45m,1-stop,12978,Nov 15
+Vistara,07:05,17:45,Mumbai,Delhi,10h 40m,1-stop,12978,Nov 15
+Vistara,09:45,23:55,Mumbai,Delhi,14h 10m,1-stop,12978,Nov 15
+Air India,16:45,08:45,Mumbai,Delhi,16h 00m,1-stop,12978,Nov 15
+Vistara,09:45,19:55,Mumbai,Delhi,10h 10m,1-stop,13083,Nov 15
+Vistara,21:00,09:45,Mumbai,Delhi,12h 45m,1-stop,13083,Nov 15
+Vistara,07:05,19:55,Mumbai,Delhi,12h 50m,1-stop,13083,Nov 15
+Air India,16:35,21:50,Mumbai,Delhi,05h 15m,1-stop,13188,Nov 15
+GO FIRST,10:40,20:30,Mumbai,Delhi,09h 50m,2+-stop,13196,Nov 15
+Air India,06:10,18:00,Mumbai,Delhi,11h 50m,1-stop,13398,Nov 15
+Air India,16:35,20:25,Mumbai,Delhi,03h 50m,1-stop,13503,Nov 15
+Air India,16:35,23:05,Mumbai,Delhi,06h 30m,1-stop,13503,Nov 15
+Air India,09:30,15:50,Mumbai,Delhi,06h 20m,1-stop,13608,Nov 15
+Air India,06:10,22:45,Mumbai,Delhi,16h 35m,1-stop,13818,Nov 15
+Air India,07:15,07:55,Mumbai,Delhi,24h 40m,1-stop,14093,Nov 15
+GO FIRST,15:20,20:20,Mumbai,Delhi,05h 00m,1-stop,15027,Nov 15
+Air India,09:50,19:45,Mumbai,Delhi,09h 55m,1-stop,15078,Nov 15
+Air India,20:30,09:15,Mumbai,Delhi,12h 45m,1-stop,15183,Nov 15
+Air India,20:30,12:55,Mumbai,Delhi,16h 25m,1-stop,15183,Nov 15
+Air India,20:30,18:00,Mumbai,Delhi,21h 30m,1-stop,15183,Nov 15
+Air India,10:15,13:45,Mumbai,Delhi,27h 30m,1-stop,15183,Nov 15
+GO FIRST,11:30,20:20,Mumbai,Delhi,08h 50m,1-stop,15341,Nov 15
+Air India,07:15,23:40,Mumbai,Delhi,16h 25m,1-stop,15353,Nov 15
+Air India,06:10,12:55,Mumbai,Delhi,06h 45m,1-stop,15498,Nov 15
+Vistara,06:30,17:05,Mumbai,Delhi,10h 35m,1-stop,16338,Nov 15
+Air India,14:20,16:30,Mumbai,Delhi,26h 10m,1-stop,16758,Nov 15
+Air India,17:20,00:30,Mumbai,Delhi,07h 10m,1-stop,17283,Nov 15
+Air India,08:15,17:40,Mumbai,Delhi,09h 25m,1-stop,19269,Nov 15
+Air India,08:15,20:50,Mumbai,Delhi,12h 35m,1-stop,19269,Nov 15
+Vistara,11:25,17:05,Mumbai,Delhi,05h 40m,1-stop,19646,Nov 15
+Air India,09:00,19:50,Mumbai,Delhi,10h 50m,1-stop,19803,Nov 15
+Air India,10:25,19:50,Mumbai,Delhi,09h 25m,1-stop,20013,Nov 15
+SpiceJet,21:10,23:20,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+SpiceJet,21:45,23:55,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+SpiceJet,07:20,09:35,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 16
+SpiceJet,10:15,12:30,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 16
+SpiceJet,19:05,21:30,Mumbai,Delhi,02h 25m,non-stop,5943,Nov 16
+Indigo,19:35,21:25,Mumbai,Delhi,01h 50m,non-stop,5943,Nov 16
+Indigo,08:30,10:25,Mumbai,Delhi,01h 55m,non-stop,5943,Nov 16
+Indigo,03:05,05:10,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 16
+Indigo,05:00,07:05,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 16
+Indigo,07:45,09:50,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 16
+Indigo,17:15,19:20,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 16
+Indigo,18:30,20:35,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 16
+Indigo,20:30,22:35,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 16
+Indigo,22:20,00:25,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 16
+Indigo,09:20,11:30,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Indigo,13:40,15:50,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Indigo,07:05,09:20,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 16
+AirAsia,22:55,01:00,Mumbai,Delhi,02h 05m,non-stop,5944,Nov 16
+GO FIRST,08:00,10:10,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 16
+GO FIRST,18:00,20:10,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 16
+GO FIRST,20:15,22:25,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 16
+GO FIRST,22:40,00:50,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 16
+GO FIRST,09:55,12:10,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 16
+GO FIRST,12:15,14:30,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 16
+GO FIRST,13:30,15:45,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 16
+GO FIRST,21:15,23:30,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 16
+GO FIRST,23:45,02:00,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 16
+GO FIRST,06:00,08:10,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 16
+Indigo,06:00,08:10,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Indigo,10:05,12:15,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Indigo,11:00,15:55,Mumbai,Delhi,04h 55m,1-stop,5943,Nov 16
+SpiceJet,05:55,10:40,Mumbai,Delhi,04h 45m,1-stop,5943,Nov 16
+SpiceJet,19:50,10:40,Mumbai,Delhi,14h 50m,1-stop,5943,Nov 16
+SpiceJet,06:15,23:45,Mumbai,Delhi,17h 30m,1-stop,5943,Nov 16
+Vistara,06:00,08:05,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 16
+Vistara,06:30,08:35,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 16
+Vistara,20:55,23:00,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 16
+Vistara,07:30,09:40,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Vistara,17:30,19:40,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Vistara,18:30,20:40,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Vistara,19:45,21:55,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Vistara,22:45,00:55,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Vistara,08:45,11:00,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 16
+Vistara,10:25,12:40,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 16
+Vistara,14:40,16:55,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 16
+Vistara,21:55,00:10,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 16
+Vistara,15:45,18:05,Mumbai,Delhi,02h 20m,non-stop,5943,Nov 16
+AirAsia,21:20,02:50,Mumbai,Delhi,05h 30m,1-stop,5941,Nov 16
+AirAsia,21:20,03:35,Mumbai,Delhi,06h 15m,1-stop,5941,Nov 16
+AirAsia,17:50,01:00,Mumbai,Delhi,07h 10m,1-stop,5941,Nov 16
+AirAsia,02:35,14:05,Mumbai,Delhi,11h 30m,1-stop,5941,Nov 16
+AirAsia,21:20,08:55,Mumbai,Delhi,11h 35m,1-stop,5941,Nov 16
+AirAsia,13:05,01:00,Mumbai,Delhi,11h 55m,1-stop,5941,Nov 16
+AirAsia,13:05,02:50,Mumbai,Delhi,13h 45m,1-stop,5941,Nov 16
+AirAsia,13:05,03:35,Mumbai,Delhi,14h 30m,1-stop,5941,Nov 16
+GO FIRST,19:15,23:30,Mumbai,Delhi,04h 15m,1-stop,5942,Nov 16
+GO FIRST,12:00,19:15,Mumbai,Delhi,07h 15m,1-stop,5942,Nov 16
+GO FIRST,14:35,23:50,Mumbai,Delhi,09h 15m,1-stop,5942,Nov 16
+GO FIRST,09:25,19:15,Mumbai,Delhi,09h 50m,1-stop,5942,Nov 16
+GO FIRST,22:40,09:50,Mumbai,Delhi,11h 10m,1-stop,5942,Nov 16
+GO FIRST,12:00,23:30,Mumbai,Delhi,11h 30m,1-stop,5942,Nov 16
+GO FIRST,22:50,10:30,Mumbai,Delhi,11h 40m,1-stop,5942,Nov 16
+GO FIRST,07:30,19:15,Mumbai,Delhi,11h 45m,1-stop,5942,Nov 16
+Indigo,08:55,15:20,Mumbai,Delhi,06h 25m,1-stop,5943,Nov 16
+Indigo,00:10,08:35,Mumbai,Delhi,08h 25m,1-stop,5943,Nov 16
+Indigo,00:10,09:00,Mumbai,Delhi,08h 50m,1-stop,5943,Nov 16
+Indigo,00:10,10:30,Mumbai,Delhi,10h 20m,1-stop,5943,Nov 16
+Vistara,11:55,14:05,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Air India,21:30,23:30,Mumbai,Delhi,02h 00m,non-stop,5943,Nov 16
+Air India,07:00,09:10,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 16
+Air India,08:00,10:15,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 16
+Air India,10:00,12:15,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 16
+Air India,16:00,18:15,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 16
+Indigo,15:50,18:00,Mumbai,Delhi,02h 10m,non-stop,6153,Nov 16
+Indigo,11:45,14:00,Mumbai,Delhi,02h 15m,non-stop,6153,Nov 16
+AirAsia,08:20,14:00,Mumbai,Delhi,05h 40m,1-stop,5941,Nov 16
+AirAsia,04:45,10:55,Mumbai,Delhi,06h 10m,1-stop,5941,Nov 16
+AirAsia,02:35,08:55,Mumbai,Delhi,06h 20m,1-stop,5941,Nov 16
+AirAsia,08:20,16:15,Mumbai,Delhi,07h 55m,1-stop,5941,Nov 16
+AirAsia,23:35,10:55,Mumbai,Delhi,11h 20m,1-stop,5941,Nov 16
+AirAsia,08:20,20:20,Mumbai,Delhi,12h 00m,1-stop,5941,Nov 16
+AirAsia,04:45,18:10,Mumbai,Delhi,13h 25m,1-stop,5941,Nov 16
+AirAsia,04:45,19:20,Mumbai,Delhi,14h 35m,1-stop,5941,Nov 16
+GO FIRST,11:20,18:00,Mumbai,Delhi,06h 40m,1-stop,5942,Nov 16
+GO FIRST,10:40,17:35,Mumbai,Delhi,06h 55m,1-stop,5942,Nov 16
+GO FIRST,09:25,17:45,Mumbai,Delhi,08h 20m,1-stop,5942,Nov 16
+GO FIRST,09:00,17:45,Mumbai,Delhi,08h 45m,1-stop,5942,Nov 16
+GO FIRST,10:35,19:55,Mumbai,Delhi,09h 20m,1-stop,5942,Nov 16
+GO FIRST,10:40,20:20,Mumbai,Delhi,09h 40m,1-stop,5942,Nov 16
+GO FIRST,16:20,02:10,Mumbai,Delhi,09h 50m,1-stop,5942,Nov 16
+GO FIRST,07:30,17:45,Mumbai,Delhi,10h 15m,1-stop,5942,Nov 16
+GO FIRST,15:20,02:10,Mumbai,Delhi,10h 50m,1-stop,5942,Nov 16
+GO FIRST,10:40,21:40,Mumbai,Delhi,11h 00m,1-stop,5942,Nov 16
+GO FIRST,21:15,08:30,Mumbai,Delhi,11h 15m,1-stop,5942,Nov 16
+GO FIRST,09:00,20:30,Mumbai,Delhi,11h 30m,1-stop,5942,Nov 16
+Air India,15:25,19:20,Mumbai,Delhi,03h 55m,1-stop,5943,Nov 16
+Air India,07:05,11:10,Mumbai,Delhi,04h 05m,1-stop,5943,Nov 16
+Indigo,19:15,00:20,Mumbai,Delhi,05h 05m,1-stop,5943,Nov 16
+Indigo,17:05,22:50,Mumbai,Delhi,05h 45m,1-stop,5943,Nov 16
+Indigo,15:50,21:55,Mumbai,Delhi,06h 05m,1-stop,5943,Nov 16
+SpiceJet,13:50,14:20,Mumbai,Delhi,24h 30m,1-stop,5943,Nov 16
+SpiceJet,06:15,07:45,Mumbai,Delhi,25h 30m,1-stop,6259,Nov 16
+Air India,19:00,21:15,Mumbai,Delhi,02h 15m,non-stop,6363,Nov 16
+Indigo,20:15,00:20,Mumbai,Delhi,04h 05m,1-stop,6431,Nov 16
+AirAsia,07:20,09:30,Mumbai,Delhi,02h 10m,non-stop,6547,Nov 16
+Indigo,00:10,07:55,Mumbai,Delhi,07h 45m,1-stop,6920,Nov 16
+Indigo,06:35,15:40,Mumbai,Delhi,09h 05m,1-stop,6920,Nov 16
+Indigo,06:45,16:10,Mumbai,Delhi,09h 25m,1-stop,6920,Nov 16
+Indigo,06:35,17:15,Mumbai,Delhi,10h 40m,1-stop,6920,Nov 16
+Indigo,17:30,00:20,Mumbai,Delhi,06h 50m,1-stop,7896,Nov 16
+Indigo,17:30,22:00,Mumbai,Delhi,04h 30m,1-stop,7896,Nov 16
+Indigo,13:45,00:20,Mumbai,Delhi,10h 35m,1-stop,8384,Nov 16
+Indigo,15:05,21:20,Mumbai,Delhi,06h 15m,1-stop,8384,Nov 16
+Indigo,13:45,22:00,Mumbai,Delhi,08h 15m,1-stop,8384,Nov 16
+Indigo,15:05,00:50,Mumbai,Delhi,09h 45m,1-stop,8384,Nov 16
+Air India,11:10,21:35,Mumbai,Delhi,10h 25m,1-stop,8463,Nov 16
+Air India,11:10,08:30,Mumbai,Delhi,21h 20m,1-stop,8463,Nov 16
+Vistara,12:15,14:25,Mumbai,Delhi,26h 10m,1-stop,8883,Nov 16
+Vistara,06:00,19:50,Mumbai,Delhi,13h 50m,1-stop,8988,Nov 16
+Air India,05:45,08:55,Mumbai,Delhi,27h 10m,1-stop,9289,Nov 16
+Indigo,16:45,22:35,Mumbai,Delhi,05h 50m,1-stop,9461,Nov 16
+Air India,08:05,10:15,Mumbai,Delhi,26h 10m,1-stop,9543,Nov 16
+Vistara,06:00,16:30,Mumbai,Delhi,10h 30m,1-stop,9723,Nov 16
+Vistara,19:20,09:00,Mumbai,Delhi,13h 40m,1-stop,9828,Nov 16
+Vistara,06:20,12:30,Mumbai,Delhi,06h 10m,1-stop,9828,Nov 16
+Vistara,19:20,12:30,Mumbai,Delhi,17h 10m,1-stop,9828,Nov 16
+Vistara,10:45,09:00,Mumbai,Delhi,22h 15m,1-stop,9828,Nov 16
+Vistara,19:20,19:55,Mumbai,Delhi,24h 35m,1-stop,9828,Nov 16
+Vistara,10:45,12:30,Mumbai,Delhi,25h 45m,1-stop,9828,Nov 16
+Vistara,06:20,09:00,Mumbai,Delhi,26h 40m,1-stop,9828,Nov 16
+Vistara,19:20,22:50,Mumbai,Delhi,27h 30m,1-stop,9828,Nov 16
+Vistara,11:30,16:45,Mumbai,Delhi,05h 15m,1-stop,9976,Nov 16
+GO FIRST,10:55,18:25,Mumbai,Delhi,07h 30m,1-stop,10537,Nov 16
+Vistara,10:45,19:55,Mumbai,Delhi,09h 10m,1-stop,9933,Nov 16
+Vistara,10:45,22:50,Mumbai,Delhi,12h 05m,1-stop,9933,Nov 16
+Vistara,06:20,19:55,Mumbai,Delhi,13h 35m,1-stop,9933,Nov 16
+Vistara,06:20,22:50,Mumbai,Delhi,16h 30m,1-stop,9933,Nov 16
+Air India,05:00,16:45,Mumbai,Delhi,11h 45m,1-stop,9976,Nov 16
+Air India,19:00,10:10,Mumbai,Delhi,15h 10m,1-stop,10007,Nov 16
+Vistara,16:05,16:30,Mumbai,Delhi,24h 25m,1-stop,10143,Nov 16
+Air India,08:05,21:35,Mumbai,Delhi,13h 30m,1-stop,10248,Nov 16
+Air India,21:00,03:40,Mumbai,Delhi,06h 40m,1-stop,10612,Nov 16
+Air India,19:05,03:40,Mumbai,Delhi,08h 35m,1-stop,10612,Nov 16
+Air India,13:25,03:40,Mumbai,Delhi,14h 15m,1-stop,10612,Nov 16
+Air India,05:30,03:40,Mumbai,Delhi,22h 10m,1-stop,10612,Nov 16
+Air India,08:05,20:40,Mumbai,Delhi,12h 35m,1-stop,10616,Nov 16
+Air India,05:45,13:50,Mumbai,Delhi,08h 05m,1-stop,10668,Nov 16
+Vistara,13:20,19:50,Mumbai,Delhi,06h 30m,1-stop,10773,Nov 16
+Air India,14:20,16:30,Mumbai,Delhi,26h 10m,1-stop,10773,Nov 16
+Air India,16:35,20:25,Mumbai,Delhi,03h 50m,1-stop,10983,Nov 16
+Air India,16:35,21:50,Mumbai,Delhi,05h 15m,1-stop,10983,Nov 16
+GO FIRST,11:30,20:20,Mumbai,Delhi,08h 50m,1-stop,11193,Nov 16
+Air India,05:30,16:35,Mumbai,Delhi,11h 05m,1-stop,11298,Nov 16
+GO FIRST,10:40,17:55,Mumbai,Delhi,07h 15m,1-stop,11301,Nov 16
+Indigo,09:25,13:40,Mumbai,Delhi,04h 15m,1-stop,11314,Nov 16
+Indigo,07:45,13:40,Mumbai,Delhi,05h 55m,1-stop,11314,Nov 16
+Air India,09:00,17:10,Mumbai,Delhi,08h 10m,1-stop,11341,Nov 16
+GO FIRST,11:20,19:00,Mumbai,Delhi,07h 40m,1-stop,12033,Nov 16
+GO FIRST,11:20,22:00,Mumbai,Delhi,10h 40m,1-stop,12033,Nov 16
+Vistara,07:00,12:40,Mumbai,Delhi,05h 40m,1-stop,12138,Nov 16
+Vistara,16:00,22:25,Mumbai,Delhi,06h 25m,1-stop,12138,Nov 16
+Vistara,16:00,23:45,Mumbai,Delhi,07h 45m,1-stop,12138,Nov 16
+Air India,05:45,18:30,Mumbai,Delhi,12h 45m,1-stop,11508,Nov 16
+GO FIRST,15:20,20:20,Mumbai,Delhi,05h 00m,1-stop,11509,Nov 16
+Air India,16:35,23:05,Mumbai,Delhi,06h 30m,1-stop,11613,Nov 16
+Vistara,06:00,12:40,Mumbai,Delhi,06h 40m,1-stop,12138,Nov 16
+Air India,20:30,09:15,Mumbai,Delhi,12h 45m,1-stop,11954,Nov 16
+Air India,20:30,12:55,Mumbai,Delhi,16h 25m,1-stop,11954,Nov 16
+Vistara,09:05,14:10,Mumbai,Delhi,05h 05m,1-stop,12138,Nov 16
+Vistara,07:00,14:10,Mumbai,Delhi,07h 10m,1-stop,12138,Nov 16
+Air India,16:45,23:55,Mumbai,Delhi,07h 10m,1-stop,12138,Nov 16
+Vistara,06:00,14:10,Mumbai,Delhi,08h 10m,1-stop,12138,Nov 16
+Air India,09:30,20:20,Mumbai,Delhi,10h 50m,1-stop,12138,Nov 16
+Vistara,09:05,20:20,Mumbai,Delhi,11h 15m,1-stop,12138,Nov 16
+Vistara,21:00,09:40,Mumbai,Delhi,12h 40m,1-stop,12138,Nov 16
+Vistara,07:00,20:20,Mumbai,Delhi,13h 20m,1-stop,12138,Nov 16
+Vistara,09:05,22:25,Mumbai,Delhi,13h 20m,1-stop,12138,Nov 16
+Vistara,21:00,10:40,Mumbai,Delhi,13h 40m,1-stop,12138,Nov 16
+Vistara,06:00,20:20,Mumbai,Delhi,14h 20m,1-stop,12138,Nov 16
+Air India,09:30,23:55,Mumbai,Delhi,14h 25m,1-stop,12138,Nov 16
+Vistara,19:10,09:40,Mumbai,Delhi,14h 30m,1-stop,12138,Nov 16
+Vistara,09:05,23:45,Mumbai,Delhi,14h 40m,1-stop,12138,Nov 16
+Vistara,07:00,22:25,Mumbai,Delhi,15h 25m,1-stop,12138,Nov 16
+Vistara,19:10,10:40,Mumbai,Delhi,15h 30m,1-stop,12138,Nov 16
+Air India,16:45,08:55,Mumbai,Delhi,16h 10m,1-stop,12138,Nov 16
+Vistara,17:30,23:45,Mumbai,Delhi,06h 15m,1-stop,12243,Nov 16
+GO FIRST,16:10,21:45,Mumbai,Delhi,05h 35m,1-stop,12556,Nov 16
+GO FIRST,16:10,21:50,Mumbai,Delhi,05h 40m,1-stop,12556,Nov 16
+Vistara,17:50,23:55,Mumbai,Delhi,06h 05m,1-stop,12978,Nov 16
+Vistara,07:05,13:30,Mumbai,Delhi,06h 25m,1-stop,12978,Nov 16
+Air India,06:10,12:55,Mumbai,Delhi,06h 45m,1-stop,12978,Nov 16
+Vistara,09:45,19:55,Mumbai,Delhi,10h 10m,1-stop,12978,Nov 16
+Air India,06:10,18:00,Mumbai,Delhi,11h 50m,1-stop,12978,Nov 16
+Vistara,07:05,19:55,Mumbai,Delhi,12h 50m,1-stop,12978,Nov 16
+Vistara,09:45,23:55,Mumbai,Delhi,14h 10m,1-stop,12978,Nov 16
+Air India,06:10,22:45,Mumbai,Delhi,16h 35m,1-stop,12978,Nov 16
+Vistara,14:00,22:45,Mumbai,Delhi,08h 45m,1-stop,13083,Nov 16
+Vistara,07:05,17:45,Mumbai,Delhi,10h 40m,1-stop,13083,Nov 16
+GO FIRST,10:40,17:55,Mumbai,Delhi,07h 15m,1-stop,13196,Nov 16
+GO FIRST,10:40,20:30,Mumbai,Delhi,09h 50m,1-stop,13196,Nov 16
+Indigo,06:05,10:25,Mumbai,Delhi,04h 20m,1-stop,13755,Nov 16
+Air India,05:20,13:00,Mumbai,Delhi,07h 40m,1-stop,13818,Nov 16
+Vistara,21:00,09:45,Mumbai,Delhi,12h 45m,1-stop,13818,Nov 16
+Air India,05:20,19:50,Mumbai,Delhi,14h 30m,1-stop,13818,Nov 16
+Air India,09:50,19:45,Mumbai,Delhi,09h 55m,1-stop,14343,Nov 16
+Air India,09:00,19:50,Mumbai,Delhi,10h 50m,1-stop,14658,Nov 16
+Air India,07:55,18:00,Mumbai,Delhi,10h 05m,1-stop,15183,Nov 16
+Air India,07:55,22:45,Mumbai,Delhi,14h 50m,1-stop,15183,Nov 16
+Air India,10:25,19:50,Mumbai,Delhi,09h 25m,1-stop,15708,Nov 16
+Vistara,06:30,17:05,Mumbai,Delhi,10h 35m,1-stop,16338,Nov 16
+Vistara,12:15,16:45,Mumbai,Delhi,04h 30m,1-stop,16548,Nov 16
+SpiceJet,09:15,18:30,Mumbai,Delhi,09h 15m,1-stop,16627,Nov 16
+Vistara,11:25,17:05,Mumbai,Delhi,05h 40m,1-stop,17126,Nov 16
+Air India,07:55,14:40,Mumbai,Delhi,06h 45m,1-stop,18679,Nov 16
+Air India,07:55,20:55,Mumbai,Delhi,13h 00m,1-stop,19729,Nov 16
+Indigo,19:35,21:25,Mumbai,Delhi,01h 50m,non-stop,4717,Nov 17
+Indigo,03:05,05:10,Mumbai,Delhi,02h 05m,non-stop,4717,Nov 17
+Indigo,07:45,09:50,Mumbai,Delhi,02h 05m,non-stop,4717,Nov 17
+Indigo,17:15,19:20,Mumbai,Delhi,02h 05m,non-stop,4717,Nov 17
+Indigo,18:30,20:35,Mumbai,Delhi,02h 05m,non-stop,4717,Nov 17
+Indigo,20:30,22:35,Mumbai,Delhi,02h 05m,non-stop,4717,Nov 17
+AirAsia,22:55,01:00,Mumbai,Delhi,02h 05m,non-stop,4717,Nov 17
+AirAsia,07:20,09:30,Mumbai,Delhi,02h 10m,non-stop,4717,Nov 17
+Indigo,07:05,09:20,Mumbai,Delhi,02h 15m,non-stop,4717,Nov 17
+SpiceJet,21:45,23:55,Mumbai,Delhi,02h 10m,non-stop,4719,Nov 17
+SpiceJet,07:20,09:35,Mumbai,Delhi,02h 15m,non-stop,4719,Nov 17
+SpiceJet,10:15,12:30,Mumbai,Delhi,02h 15m,non-stop,4719,Nov 17
+SpiceJet,19:05,21:30,Mumbai,Delhi,02h 25m,non-stop,4719,Nov 17
+Indigo,05:00,07:05,Mumbai,Delhi,02h 05m,non-stop,5208,Nov 17
+Indigo,09:55,15:55,Mumbai,Delhi,06h 00m,1-stop,5261,Nov 17
+Indigo,22:20,00:25,Mumbai,Delhi,02h 05m,non-stop,4717,Nov 17
+Indigo,06:00,08:10,Mumbai,Delhi,02h 10m,non-stop,4717,Nov 17
+Air India,07:00,08:55,Mumbai,Delhi,01h 55m,non-stop,4919,Nov 17
+Air India,21:30,23:30,Mumbai,Delhi,02h 00m,non-stop,4919,Nov 17
+Air India,08:00,10:15,Mumbai,Delhi,02h 15m,non-stop,4919,Nov 17
+Air India,19:00,21:15,Mumbai,Delhi,02h 15m,non-stop,4919,Nov 17
+Air India,18:00,20:30,Mumbai,Delhi,02h 30m,non-stop,4919,Nov 17
+Air India,15:25,19:20,Mumbai,Delhi,03h 55m,1-stop,4919,Nov 17
+Air India,07:05,11:10,Mumbai,Delhi,04h 05m,1-stop,4919,Nov 17
+Indigo,08:30,10:25,Mumbai,Delhi,01h 55m,non-stop,5208,Nov 17
+GO FIRST,08:00,10:10,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 17
+GO FIRST,18:00,20:10,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 17
+GO FIRST,22:40,00:50,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 17
+GO FIRST,12:15,14:30,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 17
+GO FIRST,13:30,15:45,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 17
+GO FIRST,21:15,23:30,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 17
+GO FIRST,23:45,02:00,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 17
+GO FIRST,09:55,12:10,Mumbai,Delhi,02h 15m,non-stop,5942,Nov 17
+Air India,10:00,12:15,Mumbai,Delhi,02h 15m,non-stop,5404,Nov 17
+GO FIRST,06:00,08:10,Mumbai,Delhi,02h 10m,non-stop,5942,Nov 17
+Indigo,09:20,11:30,Mumbai,Delhi,02h 10m,non-stop,5733,Nov 17
+Indigo,10:05,12:15,Mumbai,Delhi,02h 10m,non-stop,5733,Nov 17
+SpiceJet,05:55,10:40,Mumbai,Delhi,04h 45m,1-stop,5943,Nov 17
+Vistara,06:00,08:05,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 17
+Vistara,06:30,08:35,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 17
+Vistara,20:55,23:00,Mumbai,Delhi,02h 05m,non-stop,5943,Nov 17
+Vistara,07:30,09:40,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 17
+Vistara,17:30,19:40,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 17
+Vistara,18:30,20:40,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 17
+Vistara,19:45,21:55,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 17
+Vistara,22:45,00:55,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 17
+Vistara,08:45,11:00,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 17
+Vistara,10:25,12:40,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 17
+Vistara,14:40,16:55,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 17
+Vistara,21:55,00:10,Mumbai,Delhi,02h 15m,non-stop,5943,Nov 17
+Vistara,15:45,18:05,Mumbai,Delhi,02h 20m,non-stop,5943,Nov 17
+AirAsia,21:20,02:50,Mumbai,Delhi,05h 30m,1-stop,5941,Nov 17
+AirAsia,21:20,03:35,Mumbai,Delhi,06h 15m,1-stop,5941,Nov 17
+AirAsia,02:35,08:55,Mumbai,Delhi,06h 20m,1-stop,5941,Nov 17
+AirAsia,17:50,01:00,Mumbai,Delhi,07h 10m,1-stop,5941,Nov 17
+AirAsia,21:20,08:55,Mumbai,Delhi,11h 35m,1-stop,5941,Nov 17
+AirAsia,13:05,01:00,Mumbai,Delhi,11h 55m,1-stop,5941,Nov 17
+AirAsia,13:05,02:50,Mumbai,Delhi,13h 45m,1-stop,5941,Nov 17
+AirAsia,13:05,03:35,Mumbai,Delhi,14h 30m,1-stop,5941,Nov 17
+GO FIRST,19:15,23:30,Mumbai,Delhi,04h 15m,1-stop,5942,Nov 17
+GO FIRST,12:00,19:15,Mumbai,Delhi,07h 15m,1-stop,5942,Nov 17
+GO FIRST,14:35,23:50,Mumbai,Delhi,09h 15m,1-stop,5942,Nov 17
+GO FIRST,09:25,19:15,Mumbai,Delhi,09h 50m,1-stop,5942,Nov 17
+GO FIRST,22:40,09:50,Mumbai,Delhi,11h 10m,1-stop,5942,Nov 17
+GO FIRST,12:00,23:30,Mumbai,Delhi,11h 30m,1-stop,5942,Nov 17
+GO FIRST,22:50,10:30,Mumbai,Delhi,11h 40m,1-stop,5942,Nov 17
+SpiceJet,14:30,18:10,Mumbai,Delhi,03h 40m,1-stop,5943,Nov 17
+SpiceJet,19:50,10:40,Mumbai,Delhi,14h 50m,1-stop,5943,Nov 17
+Vistara,11:55,14:05,Mumbai,Delhi,02h 10m,non-stop,5943,Nov 17
+AirAsia,08:20,14:00,Mumbai,Delhi,05h 40m,1-stop,5941,Nov 17
+AirAsia,04:45,10:55,Mumbai,Delhi,06h 10m,1-stop,5941,Nov 17
+AirAsia,08:20,16:15,Mumbai,Delhi,07h 55m,1-stop,5941,Nov 17
+AirAsia,23:35,10:55,Mumbai,Delhi,11h 20m,1-stop,5941,Nov 17
+AirAsia,08:20,20:20,Mumbai,Delhi,12h 00m,1-stop,5941,Nov 17
+AirAsia,04:45,18:10,Mumbai,Delhi,13h 25m,1-stop,5941,Nov 17
+AirAsia,04:45,19:20,Mumbai,Delhi,14h 35m,1-stop,5941,Nov 17
+GO FIRST,15:20,20:20,Mumbai,Delhi,05h 00m,1-stop,5942,Nov 17
+GO FIRST,10:40,17:35,Mumbai,Delhi,06h 55m,2+-stop,5942,Nov 17
+GO FIRST,10:55,18:25,Mumbai,Delhi,07h 30m,1-stop,5942,Nov 17
+GO FIRST,09:25,17:45,Mumbai,Delhi,08h 20m,1-stop,5942,Nov 17
+GO FIRST,09:00,17:45,Mumbai,Delhi,08h 45m,1-stop,5942,Nov 17
+GO FIRST,10:35,19:55,Mumbai,Delhi,09h 20m,1-stop,5942,Nov 17
+GO FIRST,10:40,20:00,Mumbai,Delhi,09h 20m,2+-stop,5942,Nov 17
+GO FIRST,10:40,20:20,Mumbai,Delhi,09h 40m,2+-stop,5942,Nov 17
+GO FIRST,16:20,02:10,Mumbai,Delhi,09h 50m,1-stop,5942,Nov 17
+GO FIRST,07:30,17:45,Mumbai,Delhi,10h 15m,2+-stop,5942,Nov 17
+GO FIRST,15:20,02:10,Mumbai,Delhi,10h 50m,1-stop,5942,Nov 17
+GO FIRST,10:40,21:40,Mumbai,Delhi,11h 00m,2+-stop,5942,Nov 17
+GO FIRST,09:00,20:30,Mumbai,Delhi,11h 30m,1-stop,5942,Nov 17
+GO FIRST,21:00,08:30,Mumbai,Delhi,11h 30m,1-stop,5942,Nov 17
+Indigo,06:05,10:25,Mumbai,Delhi,04h 20m,1-stop,5943,Nov 17
+Indigo,15:50,21:55,Mumbai,Delhi,06h 05m,1-stop,5943,Nov 17
+Indigo,13:45,22:00,Mumbai,Delhi,08h 15m,1-stop,5943,Nov 17
+Indigo,13:45,00:20,Mumbai,Delhi,10h 35m,1-stop,5943,Nov 17
+SpiceJet,13:50,14:20,Mumbai,Delhi,24h 30m,1-stop,5943,Nov 17
+Indigo,06:35,17:15,Mumbai,Delhi,10h 40m,1-stop,6431,Nov 17
+Indigo,20:15,00:20,Mumbai,Delhi,04h 05m,1-stop,6431,Nov 17
+Indigo,19:15,00:20,Mumbai,Delhi,05h 05m,1-stop,6431,Nov 17
+Indigo,00:10,07:55,Mumbai,Delhi,07h 45m,1-stop,6431,Nov 17
+Indigo,00:10,09:00,Mumbai,Delhi,08h 50m,1-stop,6431,Nov 17
+Indigo,00:10,10:30,Mumbai,Delhi,10h 20m,1-stop,6431,Nov 17
+Indigo,13:40,15:50,Mumbai,Delhi,02h 10m,non-stop,6521,Nov 17
+Indigo,15:50,18:00,Mumbai,Delhi,02h 10m,non-stop,6521,Nov 17
+Indigo,11:45,14:00,Mumbai,Delhi,02h 15m,non-stop,6521,Nov 17
+Indigo,11:00,15:55,Mumbai,Delhi,04h 55m,1-stop,6573,Nov 17
+Indigo,06:45,16:10,Mumbai,Delhi,09h 25m,1-stop,6682,Nov 17
+Air India,14:20,16:30,Mumbai,Delhi,26h 10m,1-stop,6739,Nov 17
+Air India,05:45,23:25,Mumbai,Delhi,17h 40m,1-stop,6887,Nov 17
+Indigo,06:35,15:40,Mumbai,Delhi,09h 05m,1-stop,6920,Nov 17
+Indigo,17:05,22:50,Mumbai,Delhi,05h 45m,1-stop,7135,Nov 17
+Vistara,11:30,16:45,Mumbai,Delhi,05h 15m,1-stop,7111,Nov 17
+Indigo,08:55,15:20,Mumbai,Delhi,06h 25m,1-stop,7210,Nov 17
+Indigo,15:05,21:20,Mumbai,Delhi,06h 15m,1-stop,7408,Nov 17
+Indigo,15:05,00:50,Mumbai,Delhi,09h 45m,1-stop,7408,Nov 17
+Air India,11:10,04:40,Mumbai,Delhi,17h 30m,1-stop,7918,Nov 17
+AirAsia,02:35,14:05,Mumbai,Delhi,11h 30m,1-stop,8044,Nov 17
+Indigo,16:45,22:35,Mumbai,Delhi,05h 50m,1-stop,8365,Nov 17
+Air India,11:10,21:35,Mumbai,Delhi,10h 25m,1-stop,8463,Nov 17
+Air India,11:10,08:30,Mumbai,Delhi,21h 20m,1-stop,8463,Nov 17
+Air India,09:30,16:20,Mumbai,Delhi,06h 50m,1-stop,8657,Nov 17
+Indigo,17:30,22:00,Mumbai,Delhi,04h 30m,1-stop,9023,Nov 17
+Indigo,17:30,00:20,Mumbai,Delhi,06h 50m,1-stop,9023,Nov 17
+Air India,09:50,10:55,Mumbai,Delhi,25h 05m,1-stop,9099,Nov 17
+SpiceJet,09:15,18:30,Mumbai,Delhi,09h 15m,1-stop,9172,Nov 17
+Air India,21:00,03:40,Mumbai,Delhi,06h 40m,1-stop,9290,Nov 17
+Air India,05:30,16:35,Mumbai,Delhi,11h 05m,1-stop,9290,Nov 17
+Air India,13:25,03:40,Mumbai,Delhi,14h 15m,1-stop,9290,Nov 17
+Air India,21:00,16:35,Mumbai,Delhi,19h 35m,1-stop,9290,Nov 17
+Air India,05:30,03:40,Mumbai,Delhi,22h 10m,1-stop,9290,Nov 17
+Air India,13:25,16:35,Mumbai,Delhi,27h 10m,1-stop,9290,Nov 17
+Vistara,12:15,14:25,Mumbai,Delhi,26h 10m,1-stop,9356,Nov 17
+Air India,05:35,10:10,Mumbai,Delhi,04h 35m,1-stop,9373,Nov 17
+Vistara,12:15,16:45,Mumbai,Delhi,04h 30m,1-stop,9408,Nov 17
+Indigo,07:45,13:40,Mumbai,Delhi,05h 55m,1-stop,9596,Nov 17
+Vistara,16:05,16:30,Mumbai,Delhi,24h 25m,1-stop,9618,Nov 17
+Vistara,06:00,19:50,Mumbai,Delhi,13h 50m,1-stop,9723,Nov 17
+Vistara,10:45,22:50,Mumbai,Delhi,12h 05m,1-stop,9828,Nov 17
+Vistara,19:20,09:00,Mumbai,Delhi,13h 40m,1-stop,9828,Nov 17
+Vistara,06:20,22:50,Mumbai,Delhi,16h 30m,1-stop,9828,Nov 17
+Vistara,06:20,12:30,Mumbai,Delhi,06h 10m,1-stop,9828,Nov 17
+Vistara,10:45,19:55,Mumbai,Delhi,09h 10m,1-stop,9828,Nov 17
+Vistara,06:20,19:55,Mumbai,Delhi,13h 35m,1-stop,9828,Nov 17
+Vistara,19:20,12:30,Mumbai,Delhi,17h 10m,1-stop,9828,Nov 17
+Vistara,10:45,09:00,Mumbai,Delhi,22h 15m,1-stop,9828,Nov 17
+Vistara,19:20,19:55,Mumbai,Delhi,24h 35m,1-stop,9828,Nov 17
+Vistara,10:45,12:30,Mumbai,Delhi,25h 45m,1-stop,9828,Nov 17
+Vistara,06:20,09:00,Mumbai,Delhi,26h 40m,1-stop,9828,Nov 17
+Indigo,09:25,13:40,Mumbai,Delhi,04h 15m,1-stop,9849,Nov 17
+Air India,20:15,13:50,Mumbai,Delhi,17h 35m,1-stop,9877,Nov 17
+Vistara,19:20,22:50,Mumbai,Delhi,27h 30m,1-stop,9933,Nov 17
+Air India,08:05,15:45,Mumbai,Delhi,07h 40m,1-stop,9963,Nov 17
+Air India,08:05,21:35,Mumbai,Delhi,13h 30m,1-stop,9963,Nov 17
+Air India,16:45,23:55,Mumbai,Delhi,07h 10m,1-stop,9971,Nov 17
+Air India,09:30,23:55,Mumbai,Delhi,14h 25m,1-stop,9971,Nov 17
+Air India,20:15,18:30,Mumbai,Delhi,22h 15m,1-stop,10297,Nov 17
+Air India,19:05,03:40,Mumbai,Delhi,08h 35m,1-stop,10362,Nov 17
+Air India,19:05,16:35,Mumbai,Delhi,21h 30m,1-stop,10362,Nov 17
+Vistara,06:00,16:30,Mumbai,Delhi,10h 30m,1-stop,10458,Nov 17
+Air India,12:00,23:45,Mumbai,Delhi,11h 45m,1-stop,10484,Nov 17
+Air India,06:55,18:30,Mumbai,Delhi,11h 35m,1-stop,10528,Nov 17
+Air India,09:30,15:50,Mumbai,Delhi,06h 20m,1-stop,10588,Nov 17
+Air India,16:45,13:00,Mumbai,Delhi,20h 15m,1-stop,10588,Nov 17
+Air India,08:05,20:40,Mumbai,Delhi,12h 35m,1-stop,10668,Nov 17
+Air India,20:15,08:55,Mumbai,Delhi,12h 40m,1-stop,10717,Nov 17
+Air India,19:00,10:55,Mumbai,Delhi,15h 55m,1-stop,11088,Nov 17
+Air India,09:30,20:35,Mumbai,Delhi,11h 05m,1-stop,11274,Nov 17
+Air India,16:45,08:55,Mumbai,Delhi,16h 10m,1-stop,11274,Nov 17
+GO FIRST,10:40,17:55,Mumbai,Delhi,07h 15m,2+-stop,11301,Nov 17
+GO FIRST,11:20,18:00,Mumbai,Delhi,06h 40m,1-stop,12033,Nov 17
+GO FIRST,11:20,19:00,Mumbai,Delhi,07h 40m,1-stop,12033,Nov 17
+GO FIRST,11:20,22:00,Mumbai,Delhi,10h 40m,1-stop,12033,Nov 17
+Vistara,13:20,19:50,Mumbai,Delhi,06h 30m,1-stop,11403,Nov 17
+Vistara,17:30,23:45,Mumbai,Delhi,06h 15m,1-stop,12138,Nov 17
+Vistara,06:00,12:40,Mumbai,Delhi,06h 40m,1-stop,12138,Nov 17
+Air India,12:00,23:15,Mumbai,Delhi,11h 15m,1-stop,11928,Nov 17
+Air India,20:30,09:15,Mumbai,Delhi,12h 45m,1-stop,11954,Nov 17
+Air India,20:30,12:55,Mumbai,Delhi,16h 25m,1-stop,11954,Nov 17
+Air India,20:30,18:00,Mumbai,Delhi,21h 30m,1-stop,11954,Nov 17
+Air India,07:15,07:55,Mumbai,Delhi,24h 40m,1-stop,12023,Nov 17
+Vistara,06:00,14:10,Mumbai,Delhi,08h 10m,1-stop,12138,Nov 17
+Vistara,21:00,09:40,Mumbai,Delhi,12h 40m,1-stop,12138,Nov 17
+Vistara,21:00,10:40,Mumbai,Delhi,13h 40m,1-stop,12138,Nov 17
+Vistara,06:00,20:20,Mumbai,Delhi,14h 20m,1-stop,12138,Nov 17
+Vistara,09:05,14:10,Mumbai,Delhi,05h 05m,1-stop,12243,Nov 17
+Vistara,07:00,12:40,Mumbai,Delhi,05h 40m,1-stop,12243,Nov 17
+Vistara,16:00,22:25,Mumbai,Delhi,06h 25m,1-stop,12243,Nov 17
+Vistara,07:00,14:10,Mumbai,Delhi,07h 10m,1-stop,12243,Nov 17
+Vistara,16:00,23:45,Mumbai,Delhi,07h 45m,1-stop,12243,Nov 17
+GO FIRST,11:30,20:20,Mumbai,Delhi,08h 50m,1-stop,12243,Nov 17
+Vistara,09:05,20:20,Mumbai,Delhi,11h 15m,1-stop,12243,Nov 17
+Vistara,07:00,20:20,Mumbai,Delhi,13h 20m,1-stop,12243,Nov 17
+Vistara,09:05,22:25,Mumbai,Delhi,13h 20m,1-stop,12243,Nov 17
+Vistara,19:10,09:40,Mumbai,Delhi,14h 30m,1-stop,12243,Nov 17
+Vistara,09:05,23:45,Mumbai,Delhi,14h 40m,1-stop,12243,Nov 17
+Vistara,07:00,22:25,Mumbai,Delhi,15h 25m,1-stop,12243,Nov 17
+Vistara,19:10,10:40,Mumbai,Delhi,15h 30m,1-stop,12243,Nov 17
+Air India,05:20,13:00,Mumbai,Delhi,07h 40m,1-stop,12374,Nov 17
+Air India,05:20,19:50,Mumbai,Delhi,14h 30m,1-stop,12374,Nov 17
+GO FIRST,16:10,21:45,Mumbai,Delhi,05h 35m,1-stop,12556,Nov 17
+GO FIRST,16:10,21:50,Mumbai,Delhi,05h 40m,1-stop,12556,Nov 17
+Air India,10:25,19:50,Mumbai,Delhi,09h 25m,1-stop,12607,Nov 17
+Vistara,17:50,23:55,Mumbai,Delhi,06h 05m,1-stop,12978,Nov 17
+Vistara,07:05,13:30,Mumbai,Delhi,06h 25m,1-stop,12978,Nov 17
+Vistara,14:00,22:45,Mumbai,Delhi,08h 45m,1-stop,12978,Nov 17
+Vistara,09:45,23:55,Mumbai,Delhi,14h 10m,1-stop,12978,Nov 17
+Vistara,09:45,19:55,Mumbai,Delhi,10h 10m,1-stop,13083,Nov 17
+Vistara,07:05,19:55,Mumbai,Delhi,12h 50m,1-stop,13083,Nov 17
+GO FIRST,10:40,17:55,Mumbai,Delhi,07h 15m,2+-stop,13196,Nov 17
+GO FIRST,10:40,20:30,Mumbai,Delhi,09h 50m,2+-stop,13196,Nov 17
+Air India,17:20,00:30,Mumbai,Delhi,07h 10m,1-stop,13288,Nov 17
+Air India,07:15,23:40,Mumbai,Delhi,16h 25m,1-stop,13358,Nov 17
+Air India,09:00,19:50,Mumbai,Delhi,10h 50m,1-stop,13398,Nov 17
+Vistara,21:00,09:45,Mumbai,Delhi,12h 45m,1-stop,13398,Nov 17
+Vistara,06:30,17:05,Mumbai,Delhi,10h 35m,1-stop,13608,Nov 17
+Vistara,07:05,17:45,Mumbai,Delhi,10h 40m,1-stop,13713,Nov 17
+Air India,08:15,20:50,Mumbai,Delhi,12h 35m,1-stop,14491,Nov 17
+Air India,09:50,19:45,Mumbai,Delhi,09h 55m,1-stop,14789,Nov 17
+Vistara,11:25,17:05,Mumbai,Delhi,05h 40m,1-stop,16181,Nov 17
+Air India,08:15,17:40,Mumbai,Delhi,09h 25m,1-stop,17274,Nov 17
+Air India,10:15,13:45,Mumbai,Delhi,27h 30m,1-stop,17493,Nov 17
+Air India,06:10,12:55,Mumbai,Delhi,06h 45m,1-stop,19409,Nov 17
+Air India,06:10,22:45,Mumbai,Delhi,16h 35m,1-stop,19409,Nov 17
